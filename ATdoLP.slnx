@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="ATdoLP/Exercicio01.csproj" />
+  <Project Path="ConsoleApp1/Exercicio04.csproj" Id="812f84d5-c326-4e6e-8ae4-9f8421ad0179" />
+  <Project Path="Exercicio10/Exercicio10.csproj" Id="ceff1856-e45e-430a-91c5-cb31a04c0236" />
+  <Project Path="Exercicio11/Exercicio11.csproj" Id="61b74215-8380-451b-8c64-4fb5f7c541f2" />
+  <Project Path="Exercicio12/Exercicio12.csproj" Id="f8bfbc0c-e72d-459a-b28f-429c5fb4255f" />
+  <Project Path="Exercicio2/Exercicio02.csproj" />
+  <Project Path="Exercicio3/Exercicio03.csproj" Id="62ad388c-2b98-4802-9c49-bea62a0e746d" />
+  <Project Path="Exercicio5/Exercicio05.csproj" Id="471ceb9a-8056-4eef-b494-f2a77274339d" />
+  <Project Path="Exercicio6/Exercicio06.csproj" Id="f1412e12-05da-4929-b737-7adb96d5529d" />
+  <Project Path="Exercicio7/Exercicio07.csproj" Id="f5f1469a-e5ed-4935-a882-9a07180eb1da" />
+  <Project Path="exercicio8/Exercicio08.csproj" Id="148a4ab6-49b3-47f9-8471-0e9b500c5752" />
+  <Project Path="Exercicio9/Exercicio09.csproj" Id="ee649847-c278-4eca-a83b-93dbbd77f8d1" />
+</Solution>

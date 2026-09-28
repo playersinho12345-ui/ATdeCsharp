@@ -1,0 +1,6 @@
+Computador,4,90000
+Computador,2,10000
+dsadasd,2,1
+dsadasd,1,1
+dasdas,1,1
+
